@@ -1,1 +1,4 @@
-my first commit
+//my first commit
+console.count = 0;
+setY = (dec);
+function setY(dec)
